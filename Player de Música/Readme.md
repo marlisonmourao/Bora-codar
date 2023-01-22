@@ -1,13 +1,12 @@
 <h1 align="center"> #Bora codar </h1>
 
-<p align="center">Primeiro desafio da evento pra praticar conceitos basícos de HTML e CSS <br/>
+<p align="center">Primeiro desafio do evento pra praticar conceitos basícos de HTML e CSS <br/>
 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -35,10 +34,6 @@ Projeto estático de Player de Múscias
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Vhq6ensax6u7hL5zRHqHoz/%23boraCodar---Desafio-1-(Community)?node-id=0%3A1&t=yreBSwTbo4BRwZb8-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença 
-
-Esse projeto está sob a licença MIT.
 
 ---
 
