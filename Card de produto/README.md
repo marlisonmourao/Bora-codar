@@ -1,13 +1,12 @@
 <h1 align="center"> #Bora codar </h1>
 
-<p align="center">Segundo desafio do evento pra praticar conceitos basícos de HTML e CSS <br/>
+<p align="center">Segundo desafio do evento pra praticar conceitos basícos de HTML,CSS e JavaScript <br/>
 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-layout">Layout</a>
 </p>
 
 <p align="center">
