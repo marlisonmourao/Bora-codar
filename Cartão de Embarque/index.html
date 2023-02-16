@@ -18,36 +18,36 @@
       <h1>Cartão de embarque</h1>
       <div id="ticket">
         <section class="top">
-          <div class="flight">
+          <div class="flight flex column">
             <div class="number">
               <p>Voo</p>
               <strong>RS995</strong>
             </div>
-            <div class="date">
+            <div class="date text-right">
               <p>Data</p>
               <strong>23/05/2023</strong>
             </div>
           </div>
-          <div>
-            <div class="departure">
+          <div class="flex  column">
+            <div class="departure grid">
               <p>São Paulo, Brasil</p>
               <strong>GRU</strong>
               <time>17:00</time>
             </div>
-            <div class="airplane">
+            <div class="airplane grid">
               <img src="assets/airplane.svg" alt="">
             </div>
-            <div class="arrival">
+            <div class="arrival text-right grid">
               <p>São Francisco, EUA</p>
               <strong>SFO</strong>
               <time>04:48 <sup>+1</sup></time>
             </div>
           </div>
         </section>
-        <section class="middle">
+        <section class="middle flex">
           <div class="name">
             <p>Passageiro</p>
-            <strong>Marlison Mourãp</strong>
+            <strong>Marlison Mourão</strong>
 
           </div>
           <div class="seat">
@@ -56,9 +56,9 @@
           </div>
         </section>
         <section class="bottom">
-          <div class="container">
-            <div class="boarding-info">
-              <dl>
+          <div class="container flex">
+            <!-- <div class="boarding-info"> -->
+              <dl class="grid">
                 <dt>
                   <p>Embarque</p>
                   <time>16:15</time>
@@ -72,8 +72,8 @@
                   <strong>15</strong>
                 </dt>
               </dl>
-            </div>
-            <div class="qrcode">
+            <!-- </div> -->
+            <div class="qrcode grid">
               <img src="assets/QRCode.png" alt="">
               <p>Grupo de embarque 3</p>
             </div>
