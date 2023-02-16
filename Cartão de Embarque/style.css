@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --webkit-font-smoothing: antialiased;
+  --moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.6rem;
+  font-family: 'Rubik', sans-serif;
+  letter-spacing: -0.02em;
+  background: linear-gradient(167.96deg, #8257E5 0%, #271A45 100%) no-repeat;
+  height: 100vh;
+
+  display: grid;
+  place-content: center;
+}
+
+h1, strong {
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 2.4rem;
+  color: white;
+  text-align: center;
+}
+
+#boarding-pass {
+  max-width: 32.7rem;
+  margin: 0 auto;
+}
+
+#ticket {
+  margin-top: 2rem;
+}
+
+section {
+  padding: 2.4rem 3.2rem;
+  background: white;
+}
+
+.top {
+  border-radius: 2.4rem 2.4rem 0 0;
+}
+
+footer {
+  font-size: 1.4rem;
+  color: white;
+  opacity: 0.64;
+  text-align: center;
+  margin: 2rem auto;
+}
+
